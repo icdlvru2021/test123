@@ -1,2 +1,5 @@
 hello this is a test
+
+another line can be added here
+
 OK this the last line
